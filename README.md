@@ -5,6 +5,9 @@
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=python)
 
-[![card](https://github-readme-stats.vercel.app/api?username=foltzbr&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foltzbr&show_icons=true&locale=en&layout=compact&theme=radical" alt="foltzbr" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foltzbr&show_icons=true&locale=en&theme=radical" alt="foltzbr" />
+</p>
 
 
