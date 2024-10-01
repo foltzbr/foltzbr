@@ -26,6 +26,8 @@
     <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
     <img src="https://skillicons.dev/icons?i=sql" alt="SQL" title="SQL" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Photoshop" title="Visual Studio Code" />
+    <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" title="Photoshop" />
 </div>
 
 <p align="center">
