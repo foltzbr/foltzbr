@@ -24,4 +24,7 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foltzbr&show_icons=true&locale=en&theme=radical" alt="foltzbr" />
 </p>
 
+<p align="center">
+  <img src="[https://github-profile-trophy.vercel.app/?username=lalaio1&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15](https://github-profile-trophy.vercel.app/?username=foltzbr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15)" />
+</p>
 
