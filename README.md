@@ -15,6 +15,8 @@
   />
 </picture>
 
+<br/>
+
 ## Skills
 
 <div align="center">
@@ -24,15 +26,17 @@
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
     <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" />
     <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
-    <img src="https://skillicons.dev/icons?i=sql" alt="SQL" title="SQL" />
+    <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" title="Ruby" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Photoshop" title="Visual Studio Code" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" />
     <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" title="Photoshop" />
 </div>
 
+<br/>
+
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foltzbr&show_icons=true&locale=en&layout=compact&theme=radical" alt="foltzbr" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=foltzbr&show_icons=true&locale=en&theme=radical" alt="foltzbr" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foltzbr&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=ffffff&title_color=ff0000&text_color=000000" alt="foltzbr" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=foltzbr&show_icons=true&locale=en&theme=radical&bg_color=ffffff&title_color=ff0000&text_color=000000" alt="foltzbr" />
 </p>
 
 <div align="center">
