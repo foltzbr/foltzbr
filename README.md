@@ -15,7 +15,7 @@
   />
 </picture>
 
-<br/>
+<br/><br/>
 
 ## Skills
 
@@ -32,12 +32,14 @@
     <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" title="Photoshop" />
 </div>
 
-<br/>
+<br/><br/>
 
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foltzbr&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=ffffff&title_color=ff0000&text_color=000000" alt="foltzbr" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=foltzbr&show_icons=true&locale=en&theme=radical&bg_color=ffffff&title_color=ff0000&text_color=000000" alt="foltzbr" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foltzbr&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=transparent&title_color=ff0000&text_color=000000" alt="foltzbr" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=foltzbr&show_icons=true&locale=en&theme=radical&bg_color=transparent&title_color=ff0000&text_color=000000" alt="foltzbr" />
 </p>
+
+<br/><br/>
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=foltzbr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
