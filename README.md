@@ -7,7 +7,7 @@
   <img src="https://avatars.githubusercontent.com/u/183544914?s=200&v=4)" alt="Albanian Hunters " style="border-radius: 50%; width: 150px;" />
   <h2>Albanian Hunters</h2>
 
-  <a href="https://github.com/Albanian-Hunters" style="color: red; font-size: 20px; font-weight: bold;">Não clique</a>
+  <a href="https://github.com/Albanian-Hunters" style="color: red; font-size: 20px; font-weight: bold;">Link da Github</a>
 </div>
 
 <br/><br/>
@@ -41,6 +41,15 @@
 </div>
 
 <br/><br/>
+<h3 align="left">Diversão 🕹️ </h3>
+<p align="center">
+  <a href="https://playsnake.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/snake.png" alt="Play Snake Game" />
+  </a>
+  <br />
+  <span>📦 Clique na imagem!</span>
+</p>
+
 
 <picture>
   <source
@@ -54,5 +63,6 @@
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  
   />
 </picture>
