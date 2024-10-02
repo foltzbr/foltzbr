@@ -1,5 +1,5 @@
-<h1 align="center">ALB Foltz</h1>
-<h3 align="center">Tudo começa por um inicio.</h3>
+<h1 align="center">Github do Foltz</h1>
+<h3 align="center">Opa sou o Foltz programador apaixonado e sempre em busca de novos desafios. Estou na linha de frente da organização Albanian Hunters, onde lutamos contra a pedofilia e defendemos a justiça. Acredito que a tecnologia é uma arma poderosa para proteger os vulneráveis e fazer a diferença no mundo.</h3>
 
 <br/><br/>
 
