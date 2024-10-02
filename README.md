@@ -1,9 +1,6 @@
 <h1 align="center">ALB Foltz</h1>
 <h3 align="center">Tudo começa por um inicio.</h3>
 
-
-<h3 align="left">Me da esmola:</h3>
-<p><a href="https://www.buymeacoffee.com/foltzbr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/foltzbr" /></a></p><br><br>
 <br/><br/>
 
 <div align="center">
