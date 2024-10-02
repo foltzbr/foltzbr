@@ -1,19 +1,17 @@
-# Opa, á todos! Isso é só um belo começo...
+<h1 align="center">ALB Foltz</h1>
+<h3 align="center">Tudo começa por um inicio.</h3>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
+<h3 align="left">Me da esmola:</h3>
+<p><a href="https://www.buymeacoffee.com/foltzbr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/foltzbr" /></a></p><br><br>
+<br/><br/>
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/183544914?s=200&v=4)" alt="Albanian Hunters " style="border-radius: 50%; width: 150px;" />
+  <h2>Albanian Hunters</h2>
+
+  <a href="https://github.com/Albanian-Hunters" style="color: red; font-size: 20px; font-weight: bold;">Não clique</a>
+</div>
 
 <br/><br/>
 
@@ -34,13 +32,28 @@
 
 <br/><br/>
 
-<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foltzbr&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=transparent&title_color=ff0000&text_color=000000" alt="foltzbr" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=foltzbr&show_icons=true&locale=en&theme=radical&bg_color=transparent&title_color=ff0000&text_color=000000" alt="foltzbr" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=foltzbr&bg_color=000000&color=ff0000&line=ff0000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <br/><br/>
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=foltzbr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
+
+<br/><br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
