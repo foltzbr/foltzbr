@@ -31,17 +31,21 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=foltzbr&bg_color=000000&color=ff0000&line=ff0000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+---
 <br/><br/>
 
 <div align="center">
   <img width="45%" height="195px" <img src="https://github-profile-trophy.vercel.app/?username=foltzbr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
   <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foltzbr&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foltzbr&theme=radical" alt="Streak Stats" />
+</p>
 
+---
 </div>
 
 <br/><br/>
-<h3 align="left">Diversão 🕹️ </h3>
+<h3 align="left">Entertainment  </h3>
 <p align="center">
   <a href="https://playsnake.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/snake.png" alt="Play Snake Game" />
