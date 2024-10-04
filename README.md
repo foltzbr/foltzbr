@@ -37,7 +37,8 @@
 <div align="center">
   <img width="45%" height="195px" <img src="https://github-profile-trophy.vercel.app/?username=foltzbr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
   <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foltzbr&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-<p align="center">
+  <br />
+  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=foltzbr&theme=radical" alt="Streak Stats" />
 </p>
 
@@ -50,7 +51,7 @@
   <a href="https://playsnake.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/snake.png" alt="Play Snake Game" />
   </a>
-  <br />
+<br/><br/>
   <span>📦 Clique na imagem!</span>
 </p>
 
