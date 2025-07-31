@@ -1,18 +1,9 @@
 <h1 align="center">Github do Foltz</h1>
-<h3 align="center">Opa sou o Foltz um cara sempre em busca de novos desafios. Estou na linha de frente da organização Albanian Hunters, onde lutamos contra a pedofilia e defendemos a justiça. Acredito que a tecnologia é uma arma poderosa para proteger os vulneráveis e fazer a diferença no mundo.</h3>
+<h3 align="center">Opa sou o Foltz, um desenvolvedor sempre em busca de novos desafios tecnológicos. Acredito que a programação pode ser usada para criar soluções inovadoras e fazer a diferença no mundo.</h3>
 
 <br/><br/>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/183544914?s=200&v=4)" alt="Albanian Hunters " style="border-radius: 50%; width: 150px;" />
-  <h2>Albanian Hunters</h2>
-
-  <a href="https://github.com/Albanian-Hunters" style="color: red; font-size: 20px; font-weight: bold;">Link da Github</a>
-</div>
-
-<br/><br/>
-
-## Skills
+## 🛠️ Skills Técnicas
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
@@ -29,13 +20,13 @@
 
 <br/><br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=foltzbr&bg_color=000000&color=ff0000&line=ff0000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=foltzbr&bg_color=000000&color=ff0000&line=ff0000&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <br/><br/>
 
 <div align="center">
-  <img width="45%" height="195px" <img src="https://github-profile-trophy.vercel.app/?username=foltzbr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
+  <img width="45%" height="195px" src="https://github-profile-trophy.vercel.app/?username=foltzbr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
   <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foltzbr&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
   <br />
   <p align="center">
@@ -46,15 +37,14 @@
 </div>
 
 <br/><br/>
-<h3 align="left">Entertainment  </h3>
+<h3 align="left">Entretenimento</h3>
 <p align="center">
   <a href="https://playsnake.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/snake.png" alt="Play Snake Game" />
+    <img src="https://img.icons8.com/color/48/000000/snake.png" alt="Jogo da Cobrinha" />
   </a>
 <br/><br/>
-  <span>📦 Clique na imagem!</span>
+  <span>📦 Clique na imagem para jogar!</span>
 </p>
-
 
 <picture>
   <source
@@ -68,6 +58,5 @@
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  
   />
 </picture>
