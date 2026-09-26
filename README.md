@@ -30,12 +30,19 @@
   <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foltzbr&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
   <br />
   <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foltzbr&theme=radical" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=foltzbr&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
 </div>
 
+<br/><br/>
+<h3 align="left">Projetos em destaque</h3>
+<p align="center">
+  <a href="https://github.com/foltzbr/FGUESSER" target="_blank"><img src="https://img.shields.io/badge/FGUESSER-map_cheat-black" alt="FGUESSER" /></a>
+  <a href="https://github.com/foltzbr/FZRBX" target="_blank"><img src="https://img.shields.io/badge/FZRBX-roblox_extension-red" alt="FZRBX" /></a>
+  <a href="https://github.com/foltzbr/FoltzWBS" target="_blank"><img src="https://img.shields.io/badge/FoltzWBS-webhooks-blue" alt="FoltzWBS" /></a>
+</p>
 <br/><br/>
 <h3 align="left">Entretenimento</h3>
 <p align="center">
