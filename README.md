@@ -26,14 +26,21 @@
 ### `~/entertainment`
 
 <div align="center">
-  <a href="https://github.com/foltzbr/snake-game" target="_blank"><img src="assets/snake-icon.svg" alt="snake" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/foltzbr/tic-tac-toe" target="_blank"><img src="assets/tictactoe-icon.svg" alt="tic-tac-toe" /></a>
-  <br />
-  <a href="https://github.com/foltzbr/snake-game" target="_blank"><img src="https://img.shields.io/badge/PLAY_SNAKE-39d353?style=for-the-badge&labelColor=0d1117&color=39d353" alt="play snake" /></a>
-  <a href="https://github.com/foltzbr/tic-tac-toe" target="_blank"><img src="https://img.shields.io/badge/PLAY_TIC_TAC_TOE-39d353?style=for-the-badge&labelColor=0d1117&color=39d353" alt="play tic-tac-toe" /></a>
-  <br />
-  <sub>click to play — no install</sub>
+<table>
+<tr>
+<td align="center">
+<a href="https://foltzbr.github.io/snake-game/" target="_blank"><img src="assets/snake-icon.svg" alt="snake" /></a>
+<br />
+<a href="https://foltzbr.github.io/snake-game/" target="_blank"><img src="https://img.shields.io/badge/PLAY_SNAKE-39d353?style=for-the-badge&labelColor=0d1117&color=39d353" alt="play snake" /></a>
+</td>
+<td align="center">
+<a href="https://foltzbr.github.io/tic-tac-toe/" target="_blank"><img src="assets/tictactoe-icon.svg" alt="tic-tac-toe" /></a>
+<br />
+<a href="https://foltzbr.github.io/tic-tac-toe/" target="_blank"><img src="https://img.shields.io/badge/PLAY_TIC_TAC_TOE-39d353?style=for-the-badge&labelColor=0d1117&color=39d353" alt="play tic-tac-toe" /></a>
+</td>
+</tr>
+</table>
+<sub>click to play — no install</sub>
 </div>
 
 ### `~/activity`
