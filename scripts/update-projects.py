@@ -57,7 +57,7 @@ def main():
     created = datetime.strptime(user["created_at"], "%Y-%m-%dT%H:%M:%SZ").date()
     age = age_fmt(created, date.today())
     repos = api("/users/%s/repos?per_page=100&type=public&sort=pushed&direction=desc" % USER)
-    picks = [r for r in repos if not r.get("fork") and r.get("name") != USER][:4]
+    picks = [r for r in repos if not r.get("fork") and r.get("name") != USER][:6]
     rows = ["| project | what | lang |", "|---|---|---|"]
     for r in picks:
         desc = (r.get("description") or "").strip() or "classified"

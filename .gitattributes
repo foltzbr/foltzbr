@@ -1,0 +1,6 @@
+# linguist: mark generated/vendor as vendored so profile language stays clean
+scripts/* linguist-vendored
+assets/* linguist-vendored
+*.svg linguist-vendored
+*.png linguist-vendored
+snake.svg linguist-vendored
