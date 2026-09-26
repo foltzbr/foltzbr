@@ -23,6 +23,17 @@
 
 <sub>audio doesn't play inside the readme — click to open on spotify · also on [youtube](https://www.youtube.com/watch?v=Hu3kHfmcSr4)</sub>
 
+### `~/entertainment`
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/snake.png" alt="arcade" />
+  <br />
+  <a href="https://github.com/foltzbr/snake-game" target="_blank"><img src="https://img.shields.io/badge/PLAY_SNAKE-39d353?style=for-the-badge&labelColor=0d1117&color=39d353" alt="play snake" /></a>
+  <a href="https://github.com/foltzbr/tic-tac-toe" target="_blank"><img src="https://img.shields.io/badge/PLAY_TIC_TAC_TOE-39d353?style=for-the-badge&labelColor=0d1117&color=39d353" alt="play tic-tac-toe" /></a>
+  <br />
+  <sub>click to play — no install</sub>
+</div>
+
 ### `~/activity`
 
 <div align="center">
