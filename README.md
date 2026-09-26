@@ -11,10 +11,11 @@
 <!-- PROJECTS:START -->
 | project | what | lang |
 |---|---|---|
-| [FoltzWBS](https://github.com/foltzbr/FoltzWBS) | Interactive Python tool to manage webhooks: add, list, verify, delete and send bulk messages | Python |
-| [FZRBX](https://github.com/foltzbr/FZRBX) | Open-source browser extension that displays a fake Robux balance for streaming, videos and UI demos | JavaScript |
-| [FGUESSER](https://github.com/foltzbr/FGUESSER) | Map cheat for GeoGuessr and OpenGuessr with real location reveal and fast map pin | JavaScript |
 | [tic-tac-toe](https://github.com/foltzbr/tic-tac-toe) | Retro HTML5 tic-tac-toe, play against the computer or with 2 players | HTML |
+| [snake-game](https://github.com/foltzbr/snake-game) | Retro HTML5 snake game, classic Snake to play in the browser | HTML |
+| [FoltzWBS](https://github.com/foltzbr/FoltzWBS) | Interactive Python tool to manage webhooks: add, list, verify, delete and send bulk messages | Python |
+| [FGUESSER](https://github.com/foltzbr/FGUESSER) | Map cheat for GeoGuessr and OpenGuessr with real location reveal and fast map pin | JavaScript |
+| [FZRBX](https://github.com/foltzbr/FZRBX) | Open-source browser extension that displays a fake Robux balance for streaming, videos and UI demos | JavaScript |
 <!-- PROJECTS:END -->
 
 ### `~/now-playing`
