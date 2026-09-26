@@ -36,7 +36,7 @@
 <td align="center">
 <a href="https://foltzbr.github.io/tic-tac-toe/" target="_blank"><img src="assets/tictactoe-icon.svg" alt="tic-tac-toe" /></a>
 <br />
-<a href="https://foltzbr.github.io/tic-tac-toe/" target="_blank"><img src="https://img.shields.io/badge/PLAY_TIC_TAC_TOE-39d353?style=for-the-badge&labelColor=0d1117&color=39d353" alt="play tic-tac-toe" /></a>
+<a href="https://foltzbr.github.io/tic-tac-toe/" target="_blank"><img src="https://img.shields.io/badge/PLAY_TIC_TAC-39d353?style=for-the-badge&labelColor=0d1117&color=39d353" alt="play tic-tac-toe" /></a>
 </td>
 </tr>
 </table>
