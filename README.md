@@ -12,6 +12,17 @@
 
 <h3 align="center">Yo, I'm Foltz, a developer always chasing new tech challenges. I believe code can build innovative solutions and make a difference in the world.</h3>
 
+```bash
+$ whoami
+foltz — brazilian dev turning ideas into shipped code
+
+$ ls ~/projects
+FGUESSER/  FZRBX/  FoltzWBS/  Jogo-da-Cobra/
+
+$ ./run --all-green --no-broken-widgets
+status: shipping
+```
+
 <br/>
 
 ## Featured projects
