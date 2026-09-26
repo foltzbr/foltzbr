@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header" alt="header" />
 
 <p align="center">
-  <a href="https://github.com/foltzbr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Yo%2C+I%27m+foltz!;I+build+random+stuff+at+3am;It+works+on+my+machine" alt="about me" /></a>
+<a href="https://github.com/foltzbr">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00FF00&center=true&vCenter=true&width=650&lines=yo%2C+i%27m+foltz;professional+bug+creator;turning+bad+ideas+into+working+code;99%25+%22trust+me+bro%22+engineering;if+it+works%2C+don%27t+touch+it;works+on+my+machine+%E2%84%A2;git+push+--force+and+pray" alt="foltz typing intro" />
+</a>
 </p>
 
 ### `~/projects`
@@ -33,4 +35,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=foltzbr&color=00ff00&style=flat" alt="views" />
+</p>
+<p align="center">
+  <code>foltz@github:~$ sudo touch grass</code><br>
+  <sub>sudo: touch: command not found</sub>
 </p>
