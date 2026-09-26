@@ -47,6 +47,12 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/foltzbr/foltzbr/main/snake.svg" alt="github contribution grid snake animation" />
+</div>
+
+<br/>
 <h3 align="left">Entertainment</h3>
 <p align="center">
   <a href="https://playsnake.org/" target="_blank">
