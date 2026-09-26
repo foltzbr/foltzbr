@@ -41,9 +41,4 @@
 <!-- PROFILE-BADGES:END -->
 </p>
 
-<p align="center">
-  <code>foltz@github:~$ sudo touch grass</code><br>
-  <sub>sudo: touch: command not found</sub>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer" alt="footer" />
