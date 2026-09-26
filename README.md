@@ -8,14 +8,14 @@
 
 ### `~/projects`
 
-
+<!-- PROJECTS:START -->
 | project | what | lang |
 |---|---|---|
-| [FZRBX](https://github.com/foltzbr/FZRBX) | Open-source browser extension that displays a fake Robux balance for streaming, videos and UI demos | JavaScript |
 | [FoltzWBS](https://github.com/foltzbr/FoltzWBS) | Interactive Python tool to manage webhooks: add, list, verify, delete and send bulk messages | Python |
+| [FZRBX](https://github.com/foltzbr/FZRBX) | Open-source browser extension that displays a fake Robux balance for streaming, videos and UI demos | JavaScript |
 | [FGUESSER](https://github.com/foltzbr/FGUESSER) | Map cheat for GeoGuessr and OpenGuessr with real location reveal and fast map pin | JavaScript |
-| [Jogo-da-Cobra](https://github.com/foltzbr/Jogo-da-Cobra) | Retro HTML5 snake game, classic Snake to play in the browser | HTML |
-
+| [tic-tac-toe](https://github.com/foltzbr/tic-tac-toe) | Retro HTML5 tic-tac-toe, play against the computer or with 2 players | HTML |
+<!-- PROJECTS:END -->
 
 ### `~/now-playing`
 
@@ -34,11 +34,11 @@
 </div>
 
 <p align="center">
-
+<!-- PROFILE-BADGES:START -->
 <img src="https://komarev.com/ghpvc/?username=foltzbr&color=00ff00&style=flat" alt="views" />
 <img src="https://img.shields.io/badge/profile_age-2y_6m-00ff00" alt="profile age" />
 <img src="https://img.shields.io/badge/build-passing_somehow-00ff00" alt="build" />
-
+<!-- PROFILE-BADGES:END -->
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer" alt="footer" />
