@@ -1,9 +1,8 @@
-```console
-root@foltz:~$ whoami
-foltz
-root@foltz:~$ cat motd.txt
-building things that probably didn't need to exist
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header" alt="header" />
+
+<p align="center">
+  <a href="https://github.com/foltzbr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Yo%2C+I%27m+foltz!;I+build+random+stuff+at+3am;It+works+on+my+machine" alt="about me" /></a>
+</p>
 
 ### `~/projects`
 
@@ -13,13 +12,6 @@ building things that probably didn't need to exist
 | [FZRBX](https://github.com/foltzbr/FZRBX) | fake robux display for streams | JavaScript |
 | [FoltzWBS](https://github.com/foltzbr/FoltzWBS) | webhook manager | Python |
 | [Jogo-da-Cobra](https://github.com/foltzbr/Jogo-da-Cobra) | retro snake in the browser | HTML |
-
-```console
-root@foltz:~$ cat status.txt
-currently building random things
-breaking things until they work
-probably debugging something unnecessary
-```
 
 ### `~/now-playing`
 
@@ -31,20 +23,14 @@ probably debugging something unnecessary
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=foltzbr&theme=chartreuse-dark" alt="streak" />
-  <img src="https://komarev.com/ghpvc/?username=foltzbr&color=00ff00&style=flat" alt="views" />
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/foltzbr/foltzbr/main/snake.svg" alt="contribution snake" />
 </div>
 
-```console
-root@foltz:~$ uptime
-uptime: unknown
-root@foltz:~$ ./touch_grass.sh
-permission denied: touching grass
-root@foltz:~$ echo $WORKS_ON_MY_MACHINE
-true
-root@foltz:~$ cat bugs.txt
-bugs created: classified
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer" alt="footer" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=foltzbr&color=00ff00&style=flat" alt="views" />
+</p>
