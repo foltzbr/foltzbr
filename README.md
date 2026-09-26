@@ -1,25 +1,31 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header" alt="header" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=foltzbr&color=00ff00&style=flat" alt="Profile views" />
 </p>
 
-<h1 align="center">Github do Foltz</h1>
+<h1 align="center">Foltz's Github</h1>
 
-<h3 align="center">Opa sou o Foltz, um desenvolvedor sempre em busca de novos desafios tecnológicos. Acredito que a programação pode ser usada para criar soluções inovadoras e fazer a diferença no mundo.</h3>
+<p align="center">
+  <a href="https://github.com/foltzbr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Yo%2C+I%27m+Foltz!;Brazilian+developer;Always+chasing+new+challenges" alt="Typing" /></a>
+</p>
+
+<h3 align="center">Yo, I'm Foltz, a developer always chasing new tech challenges. I believe code can build innovative solutions and make a difference in the world.</h3>
 
 <br/>
 
-## Projetos em destaque
+## Featured projects
 
-| Projeto | Descrição |
+| Project | Description |
 |---|---|
-| [FGUESSER](https://github.com/foltzbr/FGUESSER) | map cheat para GeoGuessr e OpenGuessr com pin automático |
-| [FZRBX](https://github.com/foltzbr/FZRBX) | extensão de Robux fake para streaming e vídeos |
-| [FoltzWBS](https://github.com/foltzbr/FoltzWBS) | gerenciador de webhooks em Python |
-| [Jogo-da-Cobra](https://github.com/foltzbr/Jogo-da-Cobra) | snake retrô em HTML5 para jogar no navegador |
+| [FGUESSER](https://github.com/foltzbr/FGUESSER) | map cheat for GeoGuessr and OpenGuessr with auto pin |
+| [FZRBX](https://github.com/foltzbr/FZRBX) | fake Robux extension for streaming and videos |
+| [FoltzWBS](https://github.com/foltzbr/FoltzWBS) | Python webhook manager |
+| [Jogo-da-Cobra](https://github.com/foltzbr/Jogo-da-Cobra) | retro HTML5 snake to play in the browser |
 
 <br/>
 
-## Skills Técnicas
+## Technical skills
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
@@ -36,37 +42,18 @@
 
 <br/>
 
-[![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=foltzbr&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-<br/>
-
 <div align="center">
-  <img width="45%" height="195px" src="https://github-profile-trophy.vercel.app/?username=foltzbr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foltzbr&layout=compact&hide_border=true&title_color=00ff00&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=foltzbr&theme=chartreuse-dark" alt="Streak Stats" />
 </div>
 
 <br/>
-<h3 align="left">Entretenimento</h3>
+<h3 align="left">Entertainment</h3>
 <p align="center">
   <a href="https://playsnake.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/snake.png" alt="Jogo da Cobrinha" />
+    <img src="https://img.icons8.com/color/48/000000/snake.png" alt="Snake game" />
   </a>
 <br/><br/>
-  <span>📦 Clique na imagem para jogar!</span>
+  <span>Click the image to play!</span>
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer" alt="footer" />
